@@ -2,5 +2,11 @@
     "name": "symfony/webpack-encore-pack",
     "type": "symfony-pack",
     "license": "MIT",
-    "description": "A pack for Symfony Encore"
+    "description": "A pack for Symfony Encore",
+    "extra": {
+        "thanks": {
+            "name": "symfony/webpack-encore",
+            "url": "https://github.com/symfony/webpack-encore"
+        }
+    }
 }
